@@ -2,13 +2,13 @@
 
 A fully responsive and animated Hackathon Website built using **React**, **Tailwind CSS**, and **vite**. This project is the result of my hands-on learning after completing a React tutorial — designed to showcase real-world UI/UX implementation, modern web components, and theme-based hackathon ideas.
 
-🌐 Live Preview
+# 🌐 Live Preview
 
 👉 [View Website](https://yourusername.github.io/your-repo-name)  
 
 
 
-🎯 Features
+# 🎯 Features
 
 - 💡 **Hackathon Themes** section with 3D animated flip cards
 - ⚡ Fast and lightweight thanks to **Vite**
