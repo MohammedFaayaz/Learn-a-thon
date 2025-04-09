@@ -10,7 +10,7 @@ import PrizePool from "./Prizepool/Prizepool";
 import Sponsors from "./Sponsors/Sponsors";
 import RulesAndRegulations from "./components/Rules/RulesAndRegulations";
 import FAQ from "./components/FAQ/FAQ";
-import Contact from "./components/contact/contact";
+import Contact from "./components/Contact/Contact";
 import AuthPage from "./components/Auth/AuthPage";
 
 const App = () => {
