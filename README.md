@@ -4,7 +4,7 @@ A fully responsive and animated Hackathon Website built using **React**, **Tailw
 
 # 🌐 Live Preview
 
-👉 [View Website](https://yourusername.github.io/your-repo-name)  
+👉 [View Website]((https://learn-a-thon-eta.vercel.app/)
 
 
 
